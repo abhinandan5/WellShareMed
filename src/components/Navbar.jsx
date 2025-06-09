@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { useEffect, useState, useRef } from 'react';
 import { FiUser, FiLogIn, FiLogOut, FiMenu, FiX, FiChevronDown } from 'react-icons/fi';
+import { jwtDecode } from 'jwt-decode';
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -18,7 +19,7 @@ export default function Navbar() {
     const token = localStorage.getItem('token');
     if (token) {
       try {
-        const decoded = jwt_decode(token);
+        const decoded = jwtDecode(token);
         setUser({
           role: decoded.role,
           name: decoded.name || "User",
