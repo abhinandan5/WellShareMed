@@ -1,4 +1,4 @@
-// Enhanced Stats Page
+/* eslint-disable react/no-unescaped-entities */
 'use client';
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';

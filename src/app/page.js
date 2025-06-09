@@ -1,7 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 'use client';
 import { motion } from 'framer-motion';
-import { useEffect, useState } from 'react';
-import { jwtDecode } from 'jwt-decode';
 
 // Main App component
 export default function App() {

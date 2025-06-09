@@ -1,4 +1,4 @@
-// Contact Page
+/* eslint-disable react/no-unescaped-entities */
 'use client';
 import { motion } from 'framer-motion';
 import { FiMail, FiPhone, FiMapPin, FiClock } from 'react-icons/fi';

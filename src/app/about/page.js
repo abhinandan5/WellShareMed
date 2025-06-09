@@ -1,3 +1,4 @@
+eslint-disable react/no-unescaped-entities 
 'use client';
 import { motion, useScroll, useTransform, useInView } from 'framer-motion';
 import { FiHeart, FiUsers, FiTarget, FiAward, FiChevronDown, FiArrowRight, FiStar, FiTrendingUp } from 'react-icons/fi';
