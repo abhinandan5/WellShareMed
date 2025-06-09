@@ -156,8 +156,8 @@ export default function App() {
             viewport={{ once: true, amount: 0.3 }}
           >
             {[
-              { value: '10,000+', label: 'Medicines Donated' },
-              { value: '5,000+', label: 'Lives Impacted' },
+              { value: '6000+', label: 'Medicines Donated' },
+              { value: '500+', label: 'Lives Impacted' },
               { value: '200+', label: 'Communities Served' },
               { value: '98%', label: 'Satisfaction Rate' }
             ].map((stat, index) => (
