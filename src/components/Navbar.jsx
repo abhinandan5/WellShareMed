@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { useEffect, useState, useRef } from 'react';
-import jwt_decode from 'jwt-decode';
 import { FiUser, FiLogIn, FiLogOut, FiMenu, FiX, FiChevronDown } from 'react-icons/fi';
 
 export default function Navbar() {

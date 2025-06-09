@@ -341,7 +341,7 @@ export default function StatsPage() {
           <div className="relative z-10">
             <div className="text-center mb-8">
               <h2 className="text-4xl font-bold mb-2">Making Healthcare Accessible</h2>
-              <p className="text-green-100 text-xl">Together, we're building a healthier tomorrow</p>
+              <p className="text-green-100 text-xl">Together, we are building a healthier tomorrow</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

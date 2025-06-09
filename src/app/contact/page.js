@@ -31,7 +31,7 @@ export default function ContactPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            We're here to help and answer any questions you might have
+            We are here to help and answer any questions you might have
           </motion.p>
         </motion.div>
 

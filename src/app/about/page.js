@@ -94,7 +94,7 @@ export default function AboutPage() {
                 Bridging the gap between surplus medicines and those in <span className="text-green-600 font-semibold">need</span>
               </p>
               <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
-                We're building a healthcare community where no medicine goes to waste and everyone has access to the medications they need.
+                We are building a healthcare community where no medicine goes to waste and everyone has access to the medications they need.
               </p>
             </motion.div>
 
@@ -202,7 +202,7 @@ export default function AboutPage() {
                   WellShareMed was founded to bridge the critical gap in medicine access. Our platform connects surplus pharmaceuticals with individuals in need through a transparent, secure system.
                 </p>
                 <p className="text-gray-700 text-lg leading-relaxed">
-                  We believe that no medicine should go to waste when it could save a life. By creating a trusted network of donors and recipients, we're building a healthcare community that supports everyone.
+                  We believe that no medicine should go to waste when it could save a life. By creating a trusted network of donors and recipients, we are building a healthcare community that supports everyone.
                 </p>
               </div>
             </motion.div>
@@ -223,7 +223,7 @@ export default function AboutPage() {
                   Since our founding, we've facilitated thousands of medicine donations that have impacted countless lives. Every day, our community grows as more people join our mission.
                 </p>
                 <p className="text-gray-700 text-lg leading-relaxed">
-                  Whether you're a donor with surplus medicines, someone seeking medication, or both, you're part of a movement that's changing healthcare access one donation at a time.
+                  Whether you are a donor with surplus medicines, someone seeking medication, or both, you are part of a movement thats changing healthcare access one donation at a time.
                 </p>
               </div>
             </motion.div>
@@ -247,7 +247,7 @@ export default function AboutPage() {
               Our Core <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-teal-600">Values</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              These principles guide everything we do and shape our community's culture
+              These principles guide everything we do and shape our communitys culture
             </p>
           </motion.div>
 
